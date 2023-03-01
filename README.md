@@ -6,4 +6,4 @@ Add a button to Dotlan to export Jump Bridge networks
 
 ## Install
 
-*pending review in Chrome Web Store*
+[Chrome Web Store](https://chrome.google.com/webstore/detail/dotlan-export-network/dpfmdoichfjipcoddopofbobhngmhcde)
